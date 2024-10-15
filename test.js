@@ -9,3 +9,5 @@ function test() {
     console.log(const1);
     console.log(let3);
 }
+
+console.log(var1);
