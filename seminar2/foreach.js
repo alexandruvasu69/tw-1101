@@ -18,4 +18,5 @@ const arr = [1,2,3,4];
 
 arr.forEach((el, index) => {
     console.log(el, index);
-})
+});
+
